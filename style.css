@@ -1,34 +1,121 @@
+body{
+  font-family: 'Fjalla One', sans-serif;
+  margin-left: 10%;
+  margin-right: 10%;
+}
 
 #header{
+  background-color: red;
+
+  font-size: 32px;
+  /*font-family: 'Fjalla One', sans-serif;*/
+  /*font-family: Helvetica Neue, Helvetica, Arial, sans-serif;*/
+  font-style: normal;
+  margin-left:10%;
+  margin-right: 10%;
 
 }
 
+#logo{
+  padding-top: 5%;
+  margin-top: %;
+
+}
+
+#head{
+background-color: yellow;
+margin-right: 50%;
+margin-top: -3%;
+
+
+}
+#subhead{
+  font-size: 12px;
+  margin-top: -3%;
+  margin-right: 75%;
+  margin-left: 5%;
+}
+#social{
+  background-color: blue;
+  margin-left: 70%;
+  margin-top: -9%;
+
+}
 
 #border{
+
 
   }
 
 #title{
-
+  margin-left:10%;
+  margin-right: 10%;
   }
 
 #date{
+  margin-left:10%;
+  margin-right: 10%;
+}
+
+a{
+  color: #781f25;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #4FAB51;
 
 }
 
 #main{
-
+  margin-left:10%;
+  margin-right: 10%;
 }
 
 #text{
-
+  margin-left:10%;
+  margin-right: 10%;
 }
 
 
 #list{
 
+
+  background-image:url(img-cp/imglab10/list-bg.png);
+  margin-left:10%;
+  margin-right: 10%;
+  padding: 5%;
+
+
+
+}
+#zero{
+  margin-left: 10%;
+  margin-right: 55%;
+  margin-bottom:2%;
+}
+#one{
+
+
+
 }
 
-#foot{
 
+}
+#two{
+  margin-right: 10%;
+
+
+}
+#three{
+
+   margin-left: 50%;
+   margin-top: -15%;
+   margin-right: 25%;
+
+}
+#foot{
+  margin-left:10%;
+  margin-right: 10%;
+  margin-top: 7%;
 }
