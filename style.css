@@ -5,7 +5,7 @@ body{
 }
 
 #header{
-  background-color: red;
+
 
   font-size: 32px;
   /*font-family: 'Fjalla One', sans-serif;*/
@@ -23,7 +23,7 @@ body{
 }
 
 #head{
-background-color: yellow;
+
 margin-right: 50%;
 margin-top: -3%;
 
@@ -36,7 +36,7 @@ margin-top: -3%;
   margin-left: 5%;
 }
 #social{
-  background-color: blue;
+
   margin-left: 70%;
   margin-top: -9%;
 
@@ -69,7 +69,8 @@ a:hover{
 
 #main{
   margin-left:10%;
-  margin-right: 10%;
+  margin-right: 50%;
+  width: 80%;
 }
 
 #text{
